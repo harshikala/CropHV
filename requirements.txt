@@ -1,6 +1,6 @@
 streamlit==1.37.0
 pandas==2.0.3
-numpy==1.26.4
+numpy==1.24.4
 pickle5==0.0.12  # To handle pickle warnings
 matplotlib==3.8.3
 seaborn==0.13.2
